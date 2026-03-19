@@ -12,6 +12,7 @@ Můj projekt umí:
 Vypracované úkoly z hodiny v directory bonus_ukoly_cviko6 :
 - Kontrola síly hesla: function_design.py
 - Signálové operace a grafy: signal_plot_ops.py
+- soubor: ekg_signal.txt (důležitý pro úkol - Signálové operace a grafy!)
 
 ## Jak projekt spustit
 V terminálu spusť:
