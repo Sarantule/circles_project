@@ -7,6 +7,7 @@ Můj projekt umí:
 - zjistit, zda se kružnice protínají
 - vrátit výsledek
 
+Výsledek protnutí kružnic
 ![Výsledek protnutí kružnic](kruznice.png)
 
 ## BONUS !!!
