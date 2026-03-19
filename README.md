@@ -7,7 +7,7 @@ Můj projekt umí:
 - zjistit, zda se kružnice protínají
 - vrátit výsledek
 
-![Výsledek protnutí kružnic](circles_project/kruznice.png)
+![Výsledek protnutí kružnic](kruznice.png)
 
 ## BONUS !!!
 Vypracované úkoly z hodiny v directory bonus_ukoly_cviko6 :
