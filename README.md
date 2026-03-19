@@ -1,12 +1,12 @@
 # Circles Project
 
-## Co projekt dělá
+## Co můj projekt dělá
 Projekt pracuje se dvěma kružnicemi v rovině.
 
-Umí:
-- zjistit, zda se kružnice protínají,
-- vrátit výsledek,
-- slouží jako jednoduchý příklad práce s funkcemi a testy.
+Můj projekt umí:
+- zjistit, zda se kružnice protínají
+- vrátit výsledek
+- slouží jako jednoduchý příklad práce s funkcemi a testy
 
 ## Jak projekt spustit
 V terminálu spusť:
