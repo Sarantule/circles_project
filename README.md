@@ -8,6 +8,11 @@ Můj projekt umí:
 - vrátit výsledek
 - slouží jako jednoduchý příklad práce s funkcemi a testy
 
+## BONUS !!!
+Vypracované úkoly z hodiny v directory bonus_ukoly_cviko6 :
+- Kontrola síly hesla: function_design.py
+- Signálové operace a grafy: signal_plot_ops.py
+
 ## Jak projekt spustit
 V terminálu spusť:
 
