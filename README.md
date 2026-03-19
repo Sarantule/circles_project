@@ -6,7 +6,8 @@ Projekt pracuje se dvěma kružnicemi v rovině.
 Můj projekt umí:
 - zjistit, zda se kružnice protínají
 - vrátit výsledek
-- slouží jako jednoduchý příklad práce s funkcemi a testy
+
+![Výsledek protnutí kružnic](/Users/saraprochazkova/Desktop/PRG_cv6/kruznice.png)
 
 ## BONUS !!!
 Vypracované úkoly z hodiny v directory bonus_ukoly_cviko6 :
